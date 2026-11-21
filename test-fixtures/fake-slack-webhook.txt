@@ -1,0 +1,2 @@
+FAKE test value, not a working credential.
+https://hooks.slack.com/services/T0FAKE0000/B0FAKE0000/RlgLKOmxgJTeKdNnFRIBXuDL
